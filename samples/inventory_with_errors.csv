@@ -1,0 +1,10 @@
+title,creator,subject,publisher,date,identifier,type,language,barcode,rfid_tag,call_number,location,status
+The Great Gatsby,F. Scott Fitzgerald,American fiction,Scribner,1925,9780743273565,book,en,3019200012345,A1B2C3D4E5F6071829304A5B6C7,FIC FITZGERA,Main Branch,available
+,,,,,,,,3019200012346,,,,available
+Bad ISBN Book,Some Author,,,,1234567890,book,english,3019200012347,ZZZZ,FIC BAD,Main Branch,available
+Duplicate Barcode,Another Author,,,,9780061120084,book,en,3019200012345,A1B2C3D4E5F6071829304A5B6C7,FIC DUP,Main Branch,available
+Missing Barcode Book,No Barcode Author,,,,9780451524935,book,en,,,FIC NOBC,Main Branch,available
+Invalid RFID Item,RFID Test,,,,9780141439518,book,en,3019200012350,NOT_A_VALID_RFID,FIC RFID,West Branch,available
+Placeholder Barcode,Test Author,,,,9780316769488,book,en,12345678,,FIC TEST,Main Branch,available
+Bad Date Book,Date Author,,,not-a-date,9780743273565,book,en,3019200012351,A1B2C3D4E5F6071829304A5B6C7D,FIC DATE,Main Branch,available
+Unknown Type,Format Author,,,,9780061120084,comic,en,3019200012352,B2C3D4E5F6071829304A5B6C7D8,FIC TYPE,Main Branch,available

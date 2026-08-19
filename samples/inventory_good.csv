@@ -1,0 +1,6 @@
+title,creator,subject,publisher,date,identifier,type,language,barcode,rfid_tag,call_number,location,status
+The Great Gatsby,F. Scott Fitzgerald,American fiction,Scribner,1925,9780743273565,book,en,3019200012345,A1B2C3D4E5F6071829304A5B6,FIC FITZGERA,Main Branch,available
+To Kill a Mockingbird,Harper Lee,Southern fiction,HarperCollins,1960,9780061120084,book,en,3019200012346,B2C3D4E5F6071829304A5B6C7,FIC LEE,Main Branch,available
+1984,George Orwell,Dystopian fiction,Signet,1949,9780451524935,book,en,3019200012347,C3D4E5F6071829304A5B6C7D8,FIC ORWELL,Main Branch,checked out
+Pride and Prejudice,Jane Austen,Romance,Penguin,1813,9780141439518,book,en,3019200012348,D4E5F6071829304A5B6C7D8E9,FIC AUSTEN,West Branch,available
+The Catcher in the Rye,J.D. Salinger,Coming of age,Little Brown,1951,9780316769488,book,en,3019200012349,E5F6071829304A5B6C7D8E9F0,FIC SALINGER,Main Branch,on hold

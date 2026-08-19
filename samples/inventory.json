@@ -1,0 +1,39 @@
+{
+  "records": [
+    {
+      "title": "Beloved",
+      "creator": "Toni Morrison",
+      "subject": "African American fiction",
+      "publisher": "Knopf",
+      "date": "1987",
+      "identifier": "9781400033416",
+      "type": "book",
+      "language": "en",
+      "barcode": "3019200012360",
+      "rfid_tag": "F1E2D3C4B5A697887766554433221",
+      "call_number": "FIC MORRISON",
+      "location": "Main Branch",
+      "status": "available"
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "creator": "Margaret Atwood",
+      "date": "1985",
+      "identifier": "9780385490818",
+      "type": "book",
+      "language": "en",
+      "barcode": "3019200012361",
+      "call_number": "FIC ATWOOD",
+      "location": "West Branch",
+      "status": "checked out"
+    },
+    {
+      "title": "",
+      "creator": "",
+      "identifier": "0000000000000",
+      "barcode": "3019200012360",
+      "type": "book",
+      "status": "available"
+    }
+  ]
+}
